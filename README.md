@@ -1,9 +1,3 @@
-<h1 align="center">Hi <img loading="lazy" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width= "28px"/> I'm Jay Charole</h1>
-
-
-<h2 align="center">Welcome to my HR Power BI Project.</h2>
-
----
 
 ### About the project:- 🤓
 Every company has a HR Department which deals with various recruitment and placement related work of the company. Here in this project we have a huge data set in from which we are going to extract insights which can be useful for HR department to work on and to gain knowledge about the recruitment process of the market. We have extracted many different insights which we will observe further in the report.
@@ -89,20 +83,6 @@ You can download the dataset by clicking on the link: <a href="https://drive.goo
 ![image](https://user-images.githubusercontent.com/49811782/134735622-d7585991-10cf-4818-8687-3692855a4e9f.png)
 
 ![image](https://user-images.githubusercontent.com/49811782/134735631-736c2021-caff-463d-919b-4d63ffcbaa48.png)
-
-### Please fork the repo if you like it !! 
----
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/CharoleJay"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="#" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jay-charole-2ab005153/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="#" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="#" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/jaycharole" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="#" height="30" width="40" /></a>
-<a href="https://www.instagram.com/im_jaycharole004/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="#" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="#" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="#" height="30" width="40" /></a>
-</p>
-
 **Thanks and Regards ❤**
 <hr/>
 
